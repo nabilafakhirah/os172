@@ -1,1 +1,3 @@
 #nabilafakhirah
+
+we have to study operating systems because it's a very useful branch of computer science. almost every uses of the computer requires an operating system. therefore, to be able to utilize the use of computers and to extend our knowledge, we must study operating system.
