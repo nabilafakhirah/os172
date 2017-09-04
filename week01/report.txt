@@ -1,0 +1,2 @@
+#nabila_fakhirah_yusroni
+# on this week's lab, we were given the task to learn how to add, commit, push, and also pull our files from our badak terminal to our github repository. we were also asked to be able to make folders and files and texts from our badak terminal.
