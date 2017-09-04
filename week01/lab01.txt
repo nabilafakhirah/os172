@@ -20,7 +20,4 @@ drwxr-xr-x  2 nabila.fakhirah StafCS 4096 Sep  4 10:01 week09
 drwxr-xr-x  2 nabila.fakhirah StafCS 4096 Sep  4 10:01 week10
 drwxr-xr-x  2 nabila.fakhirah StafCS 4096 Sep  4 10:03 xtra
 /home/fasilkom/mahasiswa/n/nabila.fakhirah/os172/week01
-Today is 
-Today is 
-Today is 
 Today is 04 Sep 2017 at 10:55:35
